@@ -114,4 +114,3 @@ Include community sentiment analysis
 License
 This project is unlicensed and free for public use.
 
-New chat
